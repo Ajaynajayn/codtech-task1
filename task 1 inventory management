@@ -1,5 +1,5 @@
 # codtech-task1
-
+#readme
 Name: Ajay n  company: Codtech it solutions ID:CT6WDS2472 DOMAIN : PYTHON Duration:nov25 to jan10 mentor: neela santhosh kumar
 
 Overview of the Inventory Management System Project The Inventory Management System is a Python-based application designed to help businesses (such as stores or warehouses) manage their product inventory efficiently. This program provides functionalities to track products, manage stock levels, and generate reports. It features a graphical user interface (GUI) for easy interaction, user authentication, product management, and reporting. The system uses SQLite as the database to store user and product information.
